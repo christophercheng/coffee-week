@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
-    "url": "/coffee-week/static/media/roboto-latin-400italic.9680d5a0.woff"
+    "revision": "d8bcbe724fd6f4ba44d0ee6a2675890f",
+    "url": "/coffee-week/static/media/roboto-latin-400italic.d8bcbe72.woff2"
   },
   {
-    "revision": "5caabe4dec2748fee1fe",
+    "revision": "52e55ee04a5532eee062",
     "url": "/coffee-week/static/css/main.887a5174.chunk.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/coffee-week/static/media/roboto-latin-100.987b8457.woff2"
   },
   {
-    "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
-    "url": "/coffee-week/static/media/roboto-latin-100.e9dbbe8a.woff"
-  },
-  {
     "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
     "url": "/coffee-week/static/media/roboto-latin-100italic.6232f43d.woff2"
+  },
+  {
+    "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
+    "url": "/coffee-week/static/media/roboto-latin-100.e9dbbe8a.woff"
   },
   {
     "revision": "d704bb3d579b7d5e40880c75705c8a71",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/coffee-week/static/media/roboto-latin-400.bafb105b.woff"
   },
   {
-    "revision": "5caabe4dec2748fee1fe",
-    "url": "/coffee-week/static/js/main.5caabe4d.chunk.js"
+    "revision": "52e55ee04a5532eee062",
+    "url": "/coffee-week/static/js/main.52e55ee0.chunk.js"
   },
   {
-    "revision": "d8bcbe724fd6f4ba44d0ee6a2675890f",
-    "url": "/coffee-week/static/media/roboto-latin-400italic.d8bcbe72.woff2"
+    "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
+    "url": "/coffee-week/static/media/roboto-latin-400italic.9680d5a0.woff"
   },
   {
     "revision": "285467176f7fe6bb6a9c6873b3dad2cc",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/coffee-week/static/css/1.8793b90a.chunk.css"
   },
   {
-    "revision": "26565d29683482759efdf830016fc6b4",
+    "revision": "617b58cb3e6b4dddf2fd26efafb7ac22",
     "url": "/coffee-week/index.html"
   }
 ];
