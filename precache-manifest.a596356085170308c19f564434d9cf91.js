@@ -24,24 +24,24 @@ self.__precacheManifest = [
     "url": "/coffee-week/static/media/roboto-latin-100.987b8457.woff2"
   },
   {
-    "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
-    "url": "/coffee-week/static/media/roboto-latin-100italic.6232f43d.woff2"
-  },
-  {
     "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
     "url": "/coffee-week/static/media/roboto-latin-100.e9dbbe8a.woff"
+  },
+  {
+    "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
+    "url": "/coffee-week/static/media/roboto-latin-100italic.6232f43d.woff2"
   },
   {
     "revision": "d704bb3d579b7d5e40880c75705c8a71",
     "url": "/coffee-week/static/media/roboto-latin-100italic.d704bb3d.woff"
   },
   {
-    "revision": "55536c8e9e9a532651e3cf374f290ea3",
-    "url": "/coffee-week/static/media/roboto-latin-300.55536c8e.woff2"
-  },
-  {
     "revision": "a1471d1d6431c893582a5f6a250db3f9",
     "url": "/coffee-week/static/media/roboto-latin-300.a1471d1d.woff"
+  },
+  {
+    "revision": "55536c8e9e9a532651e3cf374f290ea3",
+    "url": "/coffee-week/static/media/roboto-latin-300.55536c8e.woff2"
   },
   {
     "revision": "d69924b98acd849cdeba9fbff3f88ea6",
