@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "d8bcbe724fd6f4ba44d0ee6a2675890f",
-    "url": "/coffee-week/static/media/roboto-latin-400italic.d8bcbe72.woff2"
+    "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
+    "url": "/coffee-week/static/media/roboto-latin-400italic.9680d5a0.woff"
   },
   {
     "revision": "5caabe4dec2748fee1fe",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/coffee-week/static/js/main.5caabe4d.chunk.js"
   },
   {
-    "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
-    "url": "/coffee-week/static/media/roboto-latin-400italic.9680d5a0.woff"
+    "revision": "d8bcbe724fd6f4ba44d0ee6a2675890f",
+    "url": "/coffee-week/static/media/roboto-latin-400italic.d8bcbe72.woff2"
   },
   {
     "revision": "285467176f7fe6bb6a9c6873b3dad2cc",
