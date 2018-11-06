@@ -1,3 +1,7 @@
+## App Demo 
+
+https://christophercheng.github.io/coffee-week/
+
 ## App Logic & Assumptions
 
 * receivers and givers pairings will only be in a single city.  They cannot be mixed accross cities
