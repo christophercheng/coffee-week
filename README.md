@@ -10,7 +10,7 @@ https://christophercheng.github.io/coffee-week/
 ## Future Changes That Are Needed
 
 * unit tests
-* cache each newly created pairings to the redux story(based on a hash of filters)
+* cache each newly created pairings to the redux store (based on a hash of filters)
   * currently, if any toolbar filters are changed, a new set of randomized pairings is created.
   * ideal solution: if a new set of filters is set, use the filter hash to attempt to load associated cached pairings.  if none exist, then go ahead a create new pairings and cache them to the redux store
   * remove the cache with a new UI widget e.g. button (and associated action creator & reducer)
