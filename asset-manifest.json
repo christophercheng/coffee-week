@@ -1,16 +1,16 @@
 {
   "main.css": "/coffee-week/static/css/main.07f2c0db.chunk.css",
-  "main.js": "/coffee-week/static/js/main.48aca95f.chunk.js",
-  "main.js.map": "/coffee-week/static/js/main.48aca95f.chunk.js.map",
+  "main.js": "/coffee-week/static/js/main.0e0f6e85.chunk.js",
+  "main.js.map": "/coffee-week/static/js/main.0e0f6e85.chunk.js.map",
   "static/css/1.28c0e9e2.chunk.css": "/coffee-week/static/css/1.28c0e9e2.chunk.css",
-  "static/js/1.ee4db9e7.chunk.js": "/coffee-week/static/js/1.ee4db9e7.chunk.js",
-  "static/js/1.ee4db9e7.chunk.js.map": "/coffee-week/static/js/1.ee4db9e7.chunk.js.map",
+  "static/js/1.ea331d0d.chunk.js": "/coffee-week/static/js/1.ea331d0d.chunk.js",
+  "static/js/1.ea331d0d.chunk.js.map": "/coffee-week/static/js/1.ea331d0d.chunk.js.map",
   "runtime~main.js": "/coffee-week/static/js/runtime~main.a6df8c15.js",
   "runtime~main.js.map": "/coffee-week/static/js/runtime~main.a6df8c15.js.map",
-  "static/media/index.css": "/coffee-week/static/media/roboto-latin-900italic.bc833e72.woff",
+  "static/media/index.css": "/coffee-week/static/media/roboto-latin-900italic.7b770d6c.woff2",
   "static/css/main.07f2c0db.chunk.css.map": "/coffee-week/static/css/main.07f2c0db.chunk.css.map",
   "static/css/1.28c0e9e2.chunk.css.map": "/coffee-week/static/css/1.28c0e9e2.chunk.css.map",
   "index.html": "/coffee-week/index.html",
-  "precache-manifest.a596356085170308c19f564434d9cf91.js": "/coffee-week/precache-manifest.a596356085170308c19f564434d9cf91.js",
+  "precache-manifest.c17a1c74ad50f5bc8199ac06bdfe9ccb.js": "/coffee-week/precache-manifest.c17a1c74ad50f5bc8199ac06bdfe9ccb.js",
   "service-worker.js": "/coffee-week/service-worker.js"
 }
